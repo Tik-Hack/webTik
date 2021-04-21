@@ -1,1 +1,5 @@
-socket,requests,ipapi,json
+socket
+colorama
+requests
+ipapi
+json
