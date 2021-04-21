@@ -35,3 +35,18 @@ License v1.0
 
 ![Capture2](https://user-images.githubusercontent.com/82884284/115515539-79611180-a29a-11eb-953a-36b41143698c.JPG)
 
+
+
+Installation On Windows
+
+$ Download  https://github.com/md5-81M/webTik
+$ cd webTik
+$ python -m pip install -r requirments.txt
+$ python webTik.py
+
+
+Installation On Kali Linux
+
+$ git clone https://github.com/md5-81M/webTik
+$ cd webTik
+$ python webTik.py
