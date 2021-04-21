@@ -47,6 +47,7 @@ $ python -m pip install -r requirments.txt
 
 $ python webTik.py
 
+---------------------------------------------------------------------------
 
 Installation On Kali Linux
 
