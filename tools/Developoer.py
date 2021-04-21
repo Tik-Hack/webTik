@@ -11,7 +11,7 @@ def Developer():
 ********************************************************
 **      Team   :TIK                                   **
 **      Manager:md5-81M                               **
-**      Github :https://github.com/md5-81M/webTik.git **
+**      Github :https://github.com/Tik-Hack/webTik.git**
 **      Version:1.0                                   **
 ********************************************************
 """)
