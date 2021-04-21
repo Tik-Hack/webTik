@@ -40,13 +40,18 @@ License v1.0
 Installation On Windows
 
 $ Download  https://github.com/md5-81M/webTik
+
 $ cd webTik
+
 $ python -m pip install -r requirments.txt
+
 $ python webTik.py
 
 
 Installation On Kali Linux
 
 $ git clone https://github.com/md5-81M/webTik
+
 $ cd webTik
+
 $ python webTik.py
