@@ -22,6 +22,8 @@ Find the open ports of a website.
 2: Cms-Detection :
 You can find the technologies used in a website.
 
+License
+License v1.0
 
 
 
