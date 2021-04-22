@@ -56,4 +56,6 @@ $ git clone https://github.com/Tik-Hack/webTik
 
 $ cd webTik
 
+$ python -m pip install -r requirments.txt
+
 $ python webTik.py
